@@ -20,44 +20,44 @@ Arngreen is an advertisement website from large company, Arngren electronics. Th
 
 ## Transcript
 ```text
-Dewang :  Halo nama mu siapa
-Arip   :  saya arip kak
-Dewang :  seberapa sering mbuka internet
-Arip   :  Setiap hari
-Dewang :  Pernah mbuka arngren belum sebelumnya
-Arip   :  nope
-Dewang :  apa pendapatmu tentang website arngreen
-Arip   :  Berantakan pol apa ini
-Dewang :  coba cari product yang mbok pengenin
-Arip   :  la gimana
-Dewang :  ada tombol search nya itu 
-arip   :  aaa.. oalah itu di atas
-Arip   :  yang mana nieh
-Arip   :  lah kok keluarnya gini
-Dewang :  di klik lagi coba
-Arip   :  yang di pencet apa
-Dewang :  itu pencet gambar nya
-Arip   :  ini ngga niat jualan apa ya , bikin bingung 
-Arip   :  kerasa kaya buka Deepweb 
-Arip   :  Ini cara beli nya gimana ngga bisa langsung ya, ini 
-Arip   :  gimana seh
-Arip   :  ini gimana seh ngga kaya shopee gitu
-Dewang :  ini website buat nampilin product aja , nanti ada 
-Dewang :  kontak person nya       
-Dewang :  dibawah buat beli secara manual
-Dewang :  kamu tau ngga kalo di website ada kategory nya
-arip   :  la yang mana i 
-Dewang :  itu dipojok kiri
-Arip   :  loh bisa dipencet to ternyata , gangerti aku
-Arip   :  opo ki tambah ga jelas , rakmudeng wes aku
-Dewang :  tau ngga kalo ada Ganti bahasa di website ini 
-Arip   :  yang mana sih , oh gambar benedera ni mesti
-Dewang :  iya pencet coba
-Arip   :  loh kok malah keluar iklan
-Arip   :  ini apa sih gajelas 
-Arip   :  tak kasih bintang 1 di google ntar
-Dewang :  yaudah emang mbingungin kok , Makasih ya
-Arip   :  sama sama
+1. Dewang :  Halo nama mu siapa
+2. Arip   :  saya arip kak
+3. Dewang :  seberapa sering mbuka internet
+4. Arip   :  Setiap hari
+5. Dewang :  Pernah mbuka arngren belum sebelumnya
+6. Arip   :  nope
+7. Dewang :  apa pendapatmu tentang website arngreen
+8. Arip   :  Berantakan pol apa ini
+9. Dewang :  coba cari product yang mbok pengenin
+10.Arip   :  la gimana
+11.Dewang :  ada tombol search nya itu 
+12.arip   :  aaa.. oalah itu di atas
+13.Arip   :  yang mana nieh
+14.Arip   :  lah kok keluarnya gini
+15.Dewang :  di klik lagi coba
+16.Arip   :  yang di pencet apa
+17.Dewang :  itu pencet gambar nya
+18.Arip   :  ini ngga niat jualan apa ya , bikin bingung 
+19.Arip   :  kerasa kaya buka Deepweb 
+20.Arip   :  Ini cara beli nya gimana ngga bisa langsung ya, ini 
+21.Arip   :  gimana seh
+22.Arip   :  ini gimana seh ngga kaya shopee gitu
+23.Dewang :  ini website buat nampilin product aja , nanti ada 
+24.Dewang :  kontak person nya       
+25.Dewang :  dibawah buat beli secara manual
+26.Dewang :  kamu tau ngga kalo di website ada kategory nya
+27.arip   :  la yang mana i 
+28.Dewang :  itu dipojok kiri
+29.Arip   :  loh bisa dipencet to ternyata , gangerti aku
+30.Arip   :  opo ki tambah ga jelas , rakmudeng wes aku
+31.Dewang :  tau ngga kalo ada Ganti bahasa di website ini 
+32.Arip   :  yang mana sih , oh gambar benedera ni mesti
+33.Dewang :  iya pencet coba
+34.Arip   :  loh kok malah keluar iklan
+35.Arip   :  ini apa sih gajelas 
+36.Arip   :  tak kasih bintang 1 di google ntar
+37.Dewang :  yaudah emang mbingungin kok , Makasih ya
+38.Arip   :  sama sama
 ``` 
 
 ## Models and Annotations
@@ -65,9 +65,9 @@ Arip   :  sama sama
 <br> ![Arngreen](asset/artifact1.png) <br>
 <br> ![Arngreen](asset/artifact2.png) <br>
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+<br> ![flow](asset/flowmodel.png) <br>
 ### Cultural Model
-<br> ![Arngreen](asset/Culturalmodel.png) <br>
+<br> ![cultural](asset/Culturalmodel.png) <br>
 ## Do's
 - Arrange the product location
 - Remove 3rd app advertisement from product
