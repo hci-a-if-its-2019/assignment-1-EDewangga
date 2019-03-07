@@ -3,7 +3,7 @@
 
 Arngreen is an advertisement website from large company, Arngren electronics. The products have good quality it is unfortunate that the website doesnt has good looking view. some users even need a lot of time just to finding where is the product they want to buy 
 
-<br> ![Arngreen](asset/arngren.png) <br>
+<br> ![Arngreen](asset/arngreen.png) <br>
 
 ## Instruction Script
 1. Searching Product
