@@ -45,16 +45,16 @@ Arip   :  ini gimana seh ngga kaya shopee gitu
 Dewang :  ini website buat nampilin product aja , nanti ada 
 Dewang :  kontak person nya       
 Dewang :  dibawah buat beli secara manual
-Arip   :  kamu tau ngga kalo di website ada kategory nya
-Dewang :  la yang mana i 
-Arip   :  itu dipojok kiri
+Dewang :  kamu tau ngga kalo di website ada kategory nya
+arip   :  la yang mana i 
+Dewang :  itu dipojok kiri
 Arip   :  loh bisa dipencet to ternyata , gangerti aku
 Arip   :  opo ki tambah ga jelas , rakmudeng wes aku
 Dewang :  tau ngga kalo ada Ganti bahasa di website ini 
 Arip   :  yang mana sih , oh gambar benedera ni mesti
 Dewang :  iya pencet coba
 Arip   :  loh kok malah keluar iklan
-Arip   :  ini apa sih gajelas c
+Arip   :  ini apa sih gajelas 
 Arip   :  tak kasih bintang 1 di google ntar
 Dewang :  yaudah emang mbingungin kok , Makasih ya
 Arip   :  sama sama
@@ -62,11 +62,12 @@ Arip   :  sama sama
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+<br> ![Arngreen](asset/artifact1.png) <br>
+<br> ![Arngreen](asset/artifact2.png) <br>
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+<br> ![Arngreen](asset/Culturalmodel.png) <br>
 ## Do's
 - Arrange the product location
 - Remove 3rd app advertisement from product
