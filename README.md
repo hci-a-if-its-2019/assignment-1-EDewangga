@@ -1,7 +1,7 @@
 # Contextual Inquiry and Analysis
 ## Arngreen Description
 
-Arngreen is an advertisement website from large company, Arngren electronics. The products have good quality it is unfortunate that the website doesnt has good looking view.
+Arngreen is an advertisement website from large company, Arngren electronics. The products have good quality it is unfortunate that the website doesnt has good looking view. some users even need a lot of time just to finding where is the product they want to buy 
 
 <br> ![Arngreen](asset/arngren.png) <br>
 
@@ -9,13 +9,57 @@ Arngreen is an advertisement website from large company, Arngren electronics. Th
 1. Searching Product
 2. opening detail product
 3. Finding contact person
-4. Change category
+4. buying product
 5. change Language
 
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+- Male
+- 21 Years old
+- universitas Diponegoro Students
+- Having Frist time see arngreen
+
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```text
+Dewang :  Halo nama mu siapa
+Arip   :  saya arip kak
+Dewang :  seberapa sering mbuka internet
+Arip   :  Setiap hari
+Dewang :  Pernah mbuka arngren belum sebelumnya
+Arip   :  nope
+Dewang :  apa pendapatmu tentang website arngreen
+Arip   :  Berantakan pol apa ini
+Dewang :  coba cari product yang mbok pengenin
+Arip   :  la gimana
+Dewang :  ada tombol search nya itu 
+arip   :  aaa.. oalah itu di atas
+Arip   :  yang mana nieh
+Arip   :  lah kok keluarnya gini
+Dewang :  di klik lagi coba
+Arip   :  yang di pencet apa
+Dewang :  itu pencet gambar nya
+Arip   :  ini ngga niat jualan apa ya , bikin bingung 
+Arip   :  kerasa kaya buka Deepweb 
+Arip   :  Ini cara beli nya gimana ngga bisa langsung ya, ini 
+Arip   :  gimana seh
+Arip   :  ini gimana seh ngga kaya shopee gitu
+Dewang :  ini website buat nampilin product aja , nanti ada 
+Dewang :  kontak person nya       
+Dewang :  dibawah buat beli secara manual
+Arip   :  kamu tau ngga kalo di website ada kategory nya
+Dewang :  la yang mana i 
+Arip   :  itu dipojok kiri
+Arip   :  loh bisa dipencet to ternyata , gangerti aku
+Arip   :  opo ki tambah ga jelas , rakmudeng wes aku
+Dewang :  tau ngga kalo ada Ganti bahasa di website ini 
+Arip   :  yang mana sih , oh gambar benedera ni mesti
+Dewang :  iya pencet coba
+Arip   :  loh kok malah keluar iklan
+Arip   :  ini apa sih gajelas c
+Arip   :  tak kasih bintang 1 di google ntar
+Dewang :  yaudah emang mbingungin kok , Makasih ya
+Arip   :  sama sama
+``` 
+
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
@@ -23,5 +67,10 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
-## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+## Do's
+- Arrange the product location
+- Remove 3rd app advertisement from product
+- Make it arround 10 product per page only
+- simpler the category
+## Do's
+- Don't add another product detail on product description page
