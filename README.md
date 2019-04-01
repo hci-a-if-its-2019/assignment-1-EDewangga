@@ -75,3 +75,14 @@ Arngreen is an advertisement website from large company, Arngren electronics. Th
 - simpler the category
 ## Do's
 - Don't add another product detail on product description page
+
+# Remarks
+> * Thanks for completing all the parts in this assignment. However I have several comments you might consider to make this assignment report even better.
+> * You should not reveal the participant's name in the assignment report.
+> * Ideally sentences in the `Instruction Script` are written as original verbs, e.g., opens, not as gerunds, e.g., opening, etc.
+> * It's considered as bad practice to say `ada tombol search nya itu` during the CI, because it may give the participant obvious clues. It's better to encourage him/her finding the way by himself/herself. I see several others obvious clues in the `Transcript` as well. Please pay more attention to this point.
+> * The breakdowns/barriers on the `Artifact` and `Cultural` Models may still require line-numbers referring to the `Transcript`. Therefore, readers may understand better how the breakdowns found during the CI.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 5                | 0               | 81,5               | 78,5       | 80,9  |
